@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# Site wide configuration
+
+title: Kendra Curtis
+locale: en_US
