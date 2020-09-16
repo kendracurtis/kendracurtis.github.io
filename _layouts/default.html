@@ -27,20 +27,23 @@
 
 
 		<body>
+			<div class="header">
+				<h3 class="text-muted ml-5"><a href="/">{{ "Kendra Curtis" }}</a></h3>
+			</div><!-- /.header -->
+				
 			
 			<div class="container">
 
-				<div class="header">
-					<h3 class="text-muted"><a href="/">{{ "Kendra Curtis" }}</a></h3>
-				</div><!-- /.header -->
-				
+
 				{{ content }}
 
-				<div class="footer">
-					<p align="center"><small>© kendracurtis {{ 'now' | date: "%Y" }}</small></p>
-				</div><!-- /.footer -->
+				
 			
 			</div><!-- /.container -->
+
+			<div class="footer mt-5">
+				<p align="center"><small>© kendracurtis {{ 'now' | date: "%Y" }}</small></p>
+			</div><!-- /.footer -->
 
 			
 
