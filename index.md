@@ -8,7 +8,7 @@ title: Kendra Curtis
     		<img src="../img/kendra-square.jpg" alt="Kendra Avatar" class="rounded-circle img-fluid">
     	</div>
     	<div class="col-md text-center">
-      		<p class="lead">Hi,  I'm Kendra Curtis. <br> I like building things, in Software and Real Life.</p>
+      		<p class="lead">Hi,  I'm Kendra Curtis. <br> I love building things, in Software and Real Life.</p>
       		<div>
       			<a class="no-link-color-secondary pr-3" href="https://www.linkedin.com/in/curtiskendra"><svg
       				     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" 
@@ -31,7 +31,9 @@ title: Kendra Curtis
 
 ### Engineering
 #### Presentations
-* [GHC 2020 - Code Reviews](../ghc2020)
+* [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
+
+#### Book Recommendations
 
 ### Personal
 #### Home Reno

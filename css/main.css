@@ -4,6 +4,7 @@ body { padding-top: 20px; padding-bottom: 40px; font-size: 16px; }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-weight: 300;}
 h4, h5, h6, .h4, .h5, .h6 { padding-left: 1.5rem!important }
 
+ul { padding-left:  4rem!important }
 
 blockquote p { font-size: 16px; line-height: 1.6em; }
 
