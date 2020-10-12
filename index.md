@@ -33,6 +33,9 @@ title: Kendra Curtis
 #### Presentations
 * [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
 
+#### [Publications](https://medium.com/@kscurtis2000/)
+#### [Mentoring](../circles)
+
 This space is under construction, stay tuned there is more content in development :)
 
 <!--
