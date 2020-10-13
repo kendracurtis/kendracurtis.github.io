@@ -3,8 +3,9 @@ layout: default
 title: Mentoring Circles
 ---
 
+## PEER MENTORING CIRCLES
 <p style="margin:30px 0;" align="center">
-Good mentoring and advice can be difficult to find. It can be especially hard to find a mentor who may have faced the same challenges. As I have progressed in my career, I have benefited from some great mentors and peer groups, but have included a women. I have 20+ years of experience in software development. Therefore, I have started facilitating Peer Mentoring Circles for Women in Technology. I am calling them Circles as they are Circles of Trust.</p>
+Good mentoring and advice can be difficult to find. It can be especially hard to find a mentor who may have faced the same challenges. As I have progressed in my career, I have benefited from some great mentors and peer groups, but none have included a women. I have 20+ years of experience in software development. Therefore, I have started facilitating Peer Mentoring Circles including Circles specifically for Women in Technology. They are called Circles as they are Circles of Trust.</p>
 
 ---
 
@@ -19,3 +20,5 @@ Good mentoring and advice can be difficult to find. It can be especially hard to
 ---
 
 <iframe style="margin:auto;display:block;" src="https://docs.google.com/forms/d/e/1FAIpQLSfcW-FRhM4zQxJiQCvZR7emEq9q15-i0qcZ-fBmsmBi3aQt2Q/viewform?embedded=true" width="640" height="892" frameborder="0" marginheight="0" marginwidth="0" display="block">Loading…</iframe>
+
+
