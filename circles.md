@@ -3,8 +3,8 @@ layout: default
 title: Mentoring Circles
 ---
 
-<p style="margin:30px 0;"></p>
-Good Mentoring can be difficult to find. It can be especially hard to find a mentor who may have faced the same challenges. As I have progressed in my career I have benefits form some great mentors and peer groups, neither of which ever included a women. Therefore I have started Facilitating a Peer Mentoring Circles for Women. I am calling them Circles as they are Circles of Trust.
+<p style="margin:30px 0;" align="center">
+Good Mentoring can be difficult to find. It can be especially hard to find a mentor who may have faced the same challenges. As I have progressed in my career I have benefits form some great mentors and peer groups, neither of which ever included a women. Therefore I have started Facilitating a Peer Mentoring Circles for Women in Technology. I am calling them Circles as they are Circles of Trust.</p>
 
 ---
 
