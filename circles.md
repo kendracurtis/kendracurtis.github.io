@@ -15,7 +15,7 @@ Good mentoring and advice can be difficult to find. It can be especially hard to
  <p align="center">Your team, colleagues, and family are not necessarily going to give unbiased answers. This forum is a safe space to discuss your most pressing issues. These are small curated groups where members have likely been there and can provide answers.</p> <p align="center">Monthly Circles have an in-person facilitator and agenda.</p>
 
 <h4 align="center">Connections</h4>
-<p align="center">Circles meet for 3-4 hrs on a monthly basis and will have a continuing on-line community. Each month members of the circle bring their most pressing issue for their peers to provide advice. </p>
+<p align="center">Circles meet for 3hrs on a monthly basis and will have a continuing on-line community. Each month members of the circle bring their most pressing issue for their peers to provide advice. </p>
 <p align="center">Social distancing does not mean social disconnection. This is a way to continue to connect and interact during COVID-19.</p>
 ---
 
