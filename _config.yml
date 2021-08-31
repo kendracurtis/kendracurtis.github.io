@@ -2,3 +2,8 @@
 
 title: Kendra Curtis
 locale: en_US
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
