@@ -47,11 +47,14 @@ title: Kendra Curtis
 * [Crucial Conversations](https://g.co/kgs/phwz1E)
 * [HBR 10 must reeads on various topics ](https://store.hbr.org/books/hbr-10-must-read-series/)
 * [Find Your Why by David Mead, Peter Docker, and Simon Sinek](https://g.co/kgs/qLgS31)
+
 ##### Project Management
 * [Slack by Tom DeMarco](https://g.co/kgs/dUYrz9)
+
 ##### Negotiation
 * [Getting More by Stuart Diamond](https://g.co/kgs/K3f1YZ)
 * [Getting to Yes by Roger Fisher and William Ury](https://g.co/kgs/id5jXd)
+
 ##### Management
 * [Peopleware by Timothy Lister and Tom DeMarco](https://g.co/kgs/QFzZTN)
 * [Managing Humans by Michael Loop](https://g.co/kgs/RojnG1)
