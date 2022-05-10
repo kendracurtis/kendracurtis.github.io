@@ -30,23 +30,34 @@ title: Kendra Curtis
   	</div>
 </div>
 
-### Engineering
-#### Presentations
+
+
+
+#### Blogs
+
+* [Engineering](https://kscurtis2000.medium.com/)
+* [Home Renovation - Under construction](../blog)
+
+#### Recent Presentations
 * [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
 
-#### Publications
-##### Series on Code Reviews:
+#### Eng Book Recommendations
+##### General
+* [Mythical Man-Month by Fred Brooks](https://g.co/kgs/5oiiz9)
+* [Crucial Conversations](https://g.co/kgs/phwz1E)
+* [HBR 10 must reeads on various topics ](https://store.hbr.org/books/hbr-10-must-read-series/)
+* [Find Your Why by David Mead, Peter Docker, and Simon Sinek](https://g.co/kgs/qLgS31)
+##### Project Management
+* [Slack by Tom DeMarco](https://g.co/kgs/dUYrz9)
+##### Negotiation
+* [Getting More by Stuart Diamond](https://g.co/kgs/K3f1YZ)
+* [Getting to Yes by Roger Fisher and William Ury](https://g.co/kgs/id5jXd)
+##### Management
+* [Peopleware by Timothy Lister and Tom DeMarco](https://g.co/kgs/QFzZTN)
+* [Managing Humans by Michael Loop](https://g.co/kgs/RojnG1)
 
-* [What is a code review? and Why should they be a part of your process?](https://kscurtis2000.medium.com/what-is-a-code-review-74f080c33013)
-* [Inclusive and Productive Collaboration during Code Reviews](https://medium.com/@kscurtis2000/inclusive-and-productive-collaboration-in-code-reviews-e7d05c228f4d)
-* [Why codes reviews should be a [art of your process]](https://medium.com/@kscurtis2000/what-is-a-code-review-74f080c33013#dc96)
-* [4 Rules of Thumb for a Healthy Review Process](https://medium.com/p/4-rules-of-thumb-for-providing-effective-code-review-feedback-bb188864f50d?source=email-9eead4795863--writer.postDistributed&sk=d68c017b67c01cd6c949f7d5d81ca5ab)
-* [How to adjust your style based on the type of review (Feature, Bug, Other)](https://medium.com/@kscurtis2000/how-to-provide-effective-feedback-based-on-code-review-type-ccace3d60092)
-* [Imposter Syndrome: How to overcome it during Code Reviews](https://medium.com/@kscurtis2000/imposter-syndrome-how-to-overcome-it-during-code-reviews-3eb23beae383) 
 
-<!--
-#### Book Recommendations
-
+<!---
 ### Personal
 #### Home Reno
 #### Other
