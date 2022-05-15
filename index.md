@@ -36,7 +36,7 @@ title: Kendra Curtis
 #### Blogs
 
 * [Engineering](https://kscurtis2000.medium.com/)
-* [Home Renovation - Under construction](../blog)
+* Home Renovation - Under construction
 
 #### Recent Presentations
 * [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
