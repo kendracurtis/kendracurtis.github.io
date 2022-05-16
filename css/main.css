@@ -1,3 +1,4 @@
+
 body { padding-top: 20px; padding-bottom: 40px; font-size: 16px; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-weight: 300;}
@@ -7,8 +8,6 @@ h5, h6, .h5, .h6 { padding-left: 2.0rem!important }
 ul { padding-left:  4rem!important }
 
 blockquote p { font-size: 16px; line-height: 1.6em; }
-
-img { max-width: 100%; vertical-align: middle }
 
 /* Masthead */
 .header, .header h3 {text-transform: uppercase; font-weight: normal; }
@@ -172,27 +171,3 @@ body {
     border-bottom: 0;
   }
 }
-
-
-/* Blog Post formatting */
-.post-list-heading{font-size:28px}
-.post-list{padding-inline-start:0;margin-left:0;list-style:none}
-ul.post-list {padding-left:0!important}
-.post-list > li {margin-bottom:30px}
-
-.post-meta{font-size:14px;color:#828282}
-.post-link{display:block;font-size:24px}
-.post-header{margin-bottom:30px}
-.post-title{font-size:42px;letter-spacing:-1px;line-height:1}
-  @media screen and (max-width: 800px)
-    {.post-title{font-size:36px}}
-.post-content{margin-bottom:30px}
-.post-content h2{font-size:32px} 
-  @media screen and (max-width: 800px)
-    {.post-content h2{font-size:28px}}
-.post-content h3{font-size:26px}
-  @media screen and (max-width: 800px)
-    {.post-content h3{font-size:22px}}
-.post-content h4{font-size:20px}
-  @media screen and (max-width: 800px)
-    {.post-content h4{font-size:18px}}
