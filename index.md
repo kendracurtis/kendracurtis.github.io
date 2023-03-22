@@ -36,7 +36,7 @@ title: Kendra Curtis
 #### Blogs
 
 * [Engineering](https://kscurtis2000.medium.com/)
-* Home Renovation - Under construction
+* [Home Renovation](http://medium.com/@KendraDIY)
 
 #### Recent Presentations
 * [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
@@ -45,7 +45,7 @@ title: Kendra Curtis
 ##### General
 * [Mythical Man-Month by Fred Brooks](https://g.co/kgs/5oiiz9)
 * [Crucial Conversations](https://g.co/kgs/phwz1E)
-* [HBR 10 must reeads on various topics ](https://store.hbr.org/books/hbr-10-must-read-series/)
+* [HBR 10 must reads on various topics ](https://store.hbr.org/books/hbr-10-must-read-series/)
 * [Find Your Why by David Mead, Peter Docker, and Simon Sinek](https://g.co/kgs/qLgS31)
 
 ##### Project Management
