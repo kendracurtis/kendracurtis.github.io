@@ -171,3 +171,33 @@ body {
     border-bottom: 0;
   }
 }
+
+/* Button */
+.button {
+  background-color: #4fcdcf; /* Pastel Green */
+  color: #fff;
+  padding: 17px;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-color: #fff;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+.button:hover {
+  opacity: .8 ;
+  color: white;
+  text-decoration: none;
+}
+
+/* Links */
+a {
+  color: #4fcdcf; /* Pastel Green */
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: .8 ;
+  text-decoration: none;
+}
+

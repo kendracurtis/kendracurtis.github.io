@@ -10,6 +10,9 @@ title: Kendra Curtis
     	<div class="col-md text-center">
       		<p class="lead">Hi,  I'm Kendra Curtis. <br> I love building things, in Software and Real Life.</p>
         <p style="font-weight: 300"> I am an Ex-Googler with 20+ years of software development experience, including time as a CEO and Director of Engineering. I have experience in all levels of the software stack, from early days writing firmware for wireless networking products to managing teams of developers building Web Applications. I spent close to a decade at Google. Then I was CEO and a co-founder of Scout It Out. Most recently, I was the Director of Engineering at Cockroach Labs, where I launched CockroachCloud.</p> 
+      		<div style="margin-bottom: 1rem;margin-top: 2rem;">
+      			<a class="button" href="https://practicahq.com/coaches/kendra%E2%80%94curtis%E2%80%9464310e">Schedule a 1:1 Coaching Session</a>
+      		</div>
       		<div>
       			<a class="no-link-color-secondary pr-3" href="https://www.linkedin.com/in/curtiskendra"><svg
       				     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" 
@@ -29,7 +32,6 @@ title: Kendra Curtis
     	</div>
   	</div>
 </div>
-
 
 
 
