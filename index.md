@@ -33,15 +33,29 @@ title: Kendra Curtis
   	</div>
 </div>
 
+---
 
+<p align="center">
+I am excited to be presenting in the <a href="https://www.meetup.com/tech-leader-chats/events/291951435/">Tech Leaders Chat Series hosted by Multitudes</a></p>
+
+<h2 align="center">How to Support Yourself & Your Team Through a Layoff</h2>
+<p align="center">April 3, 2023 4pm PT</p>
+
+<p align="center"><a class="button" href="https://www.meetup.com/tech-leader-chats/events/291951435/">Sign-up for the talk</a> 
+
+ </p>
+
+---
 
 #### Blogs
 
 * [Engineering](https://kscurtis2000.medium.com/)
 * [Home Renovation](http://medium.com/@KendraDIY)
 
-#### Recent Presentations
+#### Presentations
+* [Tech Leaders Chat 2023 - Code Reviews](../techleaderslayoffs) - **April 3, 2023 4pm PT**
 * [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
+
 
 #### Eng Book Recommendations
 ##### General
@@ -62,9 +76,5 @@ title: Kendra Curtis
 * [Managing Humans by Michael Loop](https://g.co/kgs/RojnG1)
 
 
-<!---
-### Personal
-#### Home Reno
-#### Other
---->
+
 
