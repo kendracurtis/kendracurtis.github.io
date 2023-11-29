@@ -11,7 +11,8 @@ title: Kendra Curtis
       		<p class="lead">Hi,  I'm Kendra Curtis. <br> I love building things, in Software and Real Life.</p>
         <p style="font-weight: 300"> I am an Ex-Googler with 20+ years of software development experience, including time as a CEO and Director of Engineering. I have experience in all levels of the software stack, from early days writing firmware for wireless networking products to managing teams of developers building Web Applications. I spent close to a decade at Google. Then I was CEO and a co-founder of Scout It Out. Most recently, I was the Director of Engineering at Cockroach Labs, where I launched CockroachCloud.</p> 
       		<div style="margin-bottom: 1rem;margin-top: 2rem;">
-      			<a class="button" href="https://practicahq.com/coaches/kendra%E2%80%94curtis%E2%80%9464310e">Schedule a 1:1 Coaching Session</a>
+      			<!--a class="button" href="https://practicahq.com/coaches/kendra%E2%80%94curtis%E2%80%9464310e">Schedule a 1:1 Coaching Session</a-->
+      			<a class="button" href="https://calendly.com/kscurtis2000/coaching-intro">Schedule an Intro Coaching Session</a>
       		</div>
       		<div>
       			<a class="no-link-color-secondary pr-3" href="https://www.linkedin.com/in/curtiskendra"><svg
@@ -35,7 +36,7 @@ title: Kendra Curtis
 
 ---
 
-<p align="center">
+<!--p align="center">
 I am excited to be presenting in the <a href="https://www.meetup.com/tech-leader-chats/events/291951435/">Tech Leaders Chat Series hosted by Multitudes</a></p>
 
 <h2 align="center">How to Support Yourself & Your Team Through a Layoff</h2>
@@ -43,9 +44,7 @@ I am excited to be presenting in the <a href="https://www.meetup.com/tech-leader
 
 <p align="center"><a class="button" href="https://www.meetup.com/tech-leader-chats/events/291951435/">Sign-up for the talk</a> 
 
- </p>
-
----
+ </p-->
 
 #### Blogs
 
@@ -53,7 +52,7 @@ I am excited to be presenting in the <a href="https://www.meetup.com/tech-leader
 * [Home Renovation](http://medium.com/@KendraDIY)
 
 #### Presentations
-* [Tech Leaders Chat 2023 - Code Reviews](../techleaderslayoffs) - **April 3, 2023 4pm PT**
+* [Tech Leaders Chat 2023 - Code Reviews](../techleaderslayoffs)
 * [Grace Hopper Celebration 2020 - Code Reviews](../ghc2020)
 
 
