@@ -58,22 +58,21 @@ I am excited to be presenting in the <a href="https://www.meetup.com/tech-leader
 
 #### Eng Book Recommendations
 ##### General
-* [Mythical Man-Month by Fred Brooks](https://g.co/kgs/5oiiz9)
-* [Crucial Conversations](https://g.co/kgs/phwz1E)
-* [HBR 10 must reads on various topics ](https://store.hbr.org/books/hbr-10-must-read-series/)
-* [Find Your Why by David Mead, Peter Docker, and Simon Sinek](https://g.co/kgs/qLgS31)
+* [Mythical Man-Month by Fred Brooks](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=81e1fc47b2b8a7d8b241001a97ae5232&camp=1789&creative=9325&index=books&keywords=Mythical Man Month)
+* [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Third-Talking-Stakes/dp/B09MV3818X/ref=sr_1_1?crid=1DV9Y8NAE75CK&amp;keywords=crucial+conversations&amp;qid=1701223773&amp;sprefix=crutial+converstaions%252Caps%252C152&amp;sr=8-1&_encoding=UTF8&tag=engcoach-20&linkCode=ur2&linkId=6099b93cb09600b05af24352d38bb8ba&camp=1789&creative=9325)
+* [HBR 10 must reads on various topics ](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=69532e749bc833e9e6fff5b9755033ff&camp=1789&creative=9325&index=books&keywords=HBR 10 must reads)
+* [Find Your Why by David Mead, Peter Docker, and Simon Sinek](https://www.amazon.com/Find-Your-Why-audiobook/dp/B074F33DYD/ref=sr_1_1?crid=22CEL9TPGGS8N&amp;keywords=Find+Your+Why+by+David+Mead%252C+Peter+Docker%252C+and+Simon+Sinek&amp;qid=1701224265&amp;s=books&amp;sprefix=find+your+why+by+david+mead%252C+peter+docker%252C+and+simon+sinek%252Cstripbooks%252C138&amp;sr=1-1&_encoding=UTF8&tag=engcoach-20&linkCode=ur2&linkId=2c4eb9666b06af72325069f52ef42aea&camp=1789&creative=9325)
 
 ##### Project Management
-* [Slack by Tom DeMarco](https://g.co/kgs/dUYrz9)
+* [Slack by Tom DeMarco](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=80f8bda6d90d78f34129a873f1f33921&camp=1789&creative=9325&index=books&keywords=Slack by Tom DeMarco)
 
 ##### Negotiation
-* [Getting More by Stuart Diamond](https://g.co/kgs/K3f1YZ)
-* [Getting to Yes by Roger Fisher and William Ury](https://g.co/kgs/id5jXd)
+* [Getting More by Stuart Diamond](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=f73af91024af692909c7fcc6493b7914&camp=1789&creative=9325&index=books&keywords=Getting More by Stuart Diamond)
+* [Getting to Yes by Roger Fisher and William Ury](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=58d6a7a6915a0b9ae9fcd04d3d8e43a5&camp=1789&creative=9325&index=books&keywords=Getting to Yes by Roger Fisher and William Ury)
 
 ##### Management
-* [Peopleware by Timothy Lister and Tom DeMarco](https://g.co/kgs/QFzZTN)
-* [Managing Humans by Michael Loop](https://g.co/kgs/RojnG1)
-
-
+* [Peopleware by Timothy Lister and Tom DeMarco](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=30006ee0047391cf2a23df95e9e7b8f5&camp=1789&creative=9325&index=books&keywords=Peopleware by Timothy Lister and Tom DeMarco)
+* [Managing Humans by Michael Loop](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=511ccee34fc94d990137f798e3e92fbc&camp=1789&creative=9325&index=books&keywords=Managing Humans by Michael Loop)
+* [Conscious Accountability: Deepen Connections, Elevate Results by David C. Tate, Marianne S. Pantalon, et al](https://www.amazon.com/gp/search?ie=UTF8&tag=engcoach-20&linkCode=ur2&linkId=f39e3638caab5fac3649817f5bf9a7d2&camp=1789&creative=9325&index=books&keywords=Conscious Accountability Deepen Connections Elevate Results) - Don't skip the introduction; you may find a reference to someone familiar.
 
 
