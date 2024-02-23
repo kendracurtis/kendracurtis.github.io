@@ -99,7 +99,7 @@ Aerial View of the Property and surrounding area 2023
  </object>
 
 * [Full photo of 2006 Subdivision Plan](../img/The_2006_Subdivision_Plan.jpg)
-* [Zoomed in photo of Subject Clauses - 2006 Subdivison Plan](../img/Subject_Clauses_2006_Subdivison_Plan.jpg)
+
 
 Title Land Description
 <div class="row">
@@ -142,6 +142,7 @@ Title Land Description
 
 
 <!--
+  * [Zoomed in photo of Subject Clauses - 2006 Subdivison Plan](../img/Subject_Clauses_2006_Subdivison_Plan.jpg)
 ### 2014
 
 
