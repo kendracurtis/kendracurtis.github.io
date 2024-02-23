@@ -98,8 +98,8 @@ Aerial View of the Property and surrounding area 2023
       <p>Unable to display PDF file. <a href="../img/LotPlan.pdf">Download</a></p>
  </object>
 
-* [Full photo of 2006 Subdivision Plan](../img/2006 Subdivision Plan.jpg)
-* [Zoomed in photo of Subject Clauses - 2006 Subdivison Plan](../img/Subject Clauses - 2006 Subdivison Plan.pdf)
+* [Full photo of 2006 Subdivision Plan](../img/2006_Subdivision_Plan.jpg)
+* [Zoomed in photo of Subject Clauses - 2006 Subdivison Plan](../img/Subject_Clauses_2006_Subdivison_Plan.pdf)
 
 Title Land Description
 <div class="row">
