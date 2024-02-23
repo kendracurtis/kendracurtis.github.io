@@ -79,7 +79,18 @@ Click on images for a larger version.
 
 Aerial View of the Property and surrounding area 2023
 
-<a href="../img/AerialView.png"><img src="../img/AerialView.png"></a>
+<div class="row">
+  <div class="column">
+    <a href="../img/AerialView_Before.png"><img src="../img/AerialView_Before.png"></a>
+    <p>Before (2019)</p>
+  </div>
+    <div class="column">
+    <a href="../img/AerialView_After.png"><img src="../img/AerialView_After.png"></a>
+    <p>After (Aug 2023)</p>
+  </div>
+</div>
+
+<!--a href="../img/AerialView.png"><img src="../img/AerialView.png"></a-->
 
 2006 Lot Plan for Lot-06-1 aka 63 Factory Lane
 
