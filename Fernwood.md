@@ -109,6 +109,17 @@ Title Land Description
 
 <div class="row">
   <div class="column">
+    <a href="../img/IMG_20190726_093452.jpg"><img src="../img/IMG_20190726_093452.jpg"></a>
+    <p>Factory Lane Before (July 2019) - from the top of the road</p>
+  </div>
+    <div class="column">
+    <a href="../img/PXL_20210811_121751447.jpg"><img src="../img/PXL_20210811_121751447.jpg"></a>
+    <p>Factory Lane Before (Aug 2021) - Closer the Entrance of 63 Factory Lane</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
     <a href="../img/Construction_2023.jpg"><img src="../img/Construction_2023.jpg"></a>
     <p>New Construction Fall 2023</p>
   </div>
