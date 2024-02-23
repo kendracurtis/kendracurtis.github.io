@@ -90,17 +90,15 @@ Aerial View of the Property and surrounding area 2023
 * [Full photo of 2006 Subdivision Plan](../img/2006 Subdivision Plan.jpg)
 * [Zoomed in photo of Subject Clauses - 2006 Subdivison Plan](../img/Subject Clauses - 2006 Subdivison Plan.pdf)
 
-Raw Title Land Description
-<table>
-<tr>
+Title Land Description
+<div class="row">
   <div class="column">
     <a href="../img/Runnoff_2023.jpg"><img src="../img/RAW Title - Land Description (1).jpg"></a>
   </div>
   <div class="column">
     <a href="../img/Construction_2023.jpg"><img src="../img/RAW Title - Land Description (2).jpg"></a>
   </div>
-</tr>
-</table>
+</div>
 
 
 <a id="new"></a>
