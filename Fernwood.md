@@ -145,13 +145,7 @@ Title Land Description
   * [Zoomed in photo of Subject Clauses - 2006 Subdivison Plan](../img/Subject_Clauses_2006_Subdivison_Plan.jpg)
 ### 2014
 
-
-
 ### 202?
-
-
-<p style="margin:30px 0;" align="center">
-Good mentoring and advice can be difficult to find. It can be especially hard to find a mentor who may have faced the same challenges. As I have progressed in my career, I have benefited from some great mentors and peer groups, but none have included a women. I have 20+ years of experience in software development. Therefore, I have started facilitating Peer Mentoring Circles including Circles specifically for Women in Technology. They are called Circles as they are Circles of Trust.</p>
 
 ---
 
