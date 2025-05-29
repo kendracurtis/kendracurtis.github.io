@@ -60,14 +60,18 @@ img {
 </html>
 
 
-<div id="toc_container">
+<!--div id="toc_container">
 <p class="toc_title">Table of Contents</p>
 <ul class="toc_list">
   <li><a href="#general">General Information</a>
-</li>
-<li><a href="#new">New Building Construction</a></li>
+
+<li><a href="#lane">Laneway (Project 1)</a></li>
 </ul>
-</div>
+</li>
+
+<li><a href="#new">New Building Construction (Project 2)</a></li>
+</ul>
+</div-->
 Click on images for a larger version.
 
 
@@ -91,7 +95,6 @@ Aerial View of the Property and surrounding area 2023
 </div>
 
 <!--a href="../img/AerialView.png"><img src="../img/AerialView.png"></a-->
-
 2006 Lot Plan for Lot-06-1 aka 63 Factory Lane
 
  <object data="../img/LotPlan.pdf" type="application/pdf" width="100%" height="460px">
@@ -101,42 +104,74 @@ Aerial View of the Property and surrounding area 2023
 * [Full photo of 2006 Subdivision Plan](../img/The_2006_Subdivision_Plan.jpg)
 
 
-Title Land Description
-<div class="row">
-  <div class="column">
-    <a href="../img/title_1.jpg"><img src="../img/title_1.jpg"></a>
-  </div>
-  <div class="column">
-    <a href="../img/title_2.jpg"><img src="../img/title_2.jpg"></a>
-  </div>
-</div>
 
-
-<a id="new"></a>
-### New Building Construction
-
+<a id="lane"></a>
+### Lane Development
 
 <hr />
 
 <div class="row">
   <div class="column">
     <a href="../img/IMG_20190726_093452.jpg"><img src="../img/IMG_20190726_093452.jpg"></a>
-    <p>Factory Lane Before (July 2019) - from the top of the road</p>
+    <p>Factory Lane Before (July 2019) - From the top of the Lane</p>
   </div>
     <div class="column">
-    <a href="../img/PXL_20210811_121751447.jpg"><img src="../img/PXL_20210811_121751447.jpg"></a>
-    <p>Factory Lane Before (Aug 2021) - Closer the Entrance of 63 Factory Lane</p>
+    <a href="../img/PXL_20240628_155026800.jpg"><img src="../img/PXL_20240628_155026800.jpg"></a>
+    <p>Factory Lane After (June 2024)</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
+    <a href="../img/IMG_0837.JPG"><img src="../img/IMG_0837.JPG"></a>
+    <p>Factory Lane Before (Aug 2009) - Closer the Entrance of 63 Factory Lane</p>
+  </div>
+    <div class="column">
+    <a href="../img/PXL_20240628_154757043.jpg"><img src="../img/PXL_20240628_154757043.jpg"></a>
+    <p>Factory Lane After (June 2024)</p>
+  </div>
+</div>
+
+
+
+<a id="new"></a>
+### New Building Construction
+
+<hr />
+
+<div class="row">
+  <div class="column">
+    <a href="../img/PXL_20210730_201433799.jpg"><img src="../img/PXL_20210730_201433799.jpg"></a>
+    <p>Before - July 2021</p>
+  </div>
+  <div class="column">
     <a href="../img/Construction_2023.jpg"><img src="../img/Construction_2023.jpg"></a>
     <p>New Construction Fall 2023</p>
   </div>
-    <div class="column">
+</div>
+
+
+<div class="row">
+  <div class="column">
+    <a href="../img/Runnoff_2023.jpg"><img src="../img/image.jpg"></a>
+    <p>Land filled higher than the top of fence ~4-5ft</p>
+  </div>
+  <div class="column">
+    <a href="../img/image(1).jpg"><img src="../img/image(1).jpg"></a>
+    <p>Land filled higher than the top of fence ~4-5ft - including wellhead</p>
+    
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
     <a href="../img/Runnoff_2023.jpg"><img src="../img/Runnoff_2023.jpg"></a>
     <p>Runnoff Summer 2023</p>
+  </div>
+  <div class="column">
+    <a href="../img/2023_Runnoff_under_neighbouring_trees.jpg"><img src="../img/2023_Runnoff_under_neighbouring_trees.jpg"></a>
+    <p>Runnoff under neighbouring trees dispalaced onto my property by Project 2 - Summer 2023</p>
+    
   </div>
 </div>
 
