@@ -133,6 +133,18 @@ Aerial View of the Property and surrounding area 2023
 </div>
 
 
+<div class="row">
+  <div class="column">
+    <a href="../img/Runnoff_2023.jpg"><img src="../img/Runnoff_2023.jpg"></a>
+    <p>Runnoff Summer 2023</p>
+  </div>
+  <div class="column">
+    <a href="../img/2023_Runnoff_under_neighbouring_trees.jpg"><img src="../img/2023_Runnoff_under_neighbouring_trees.jpg"></a>
+    <p>Runnoff under neighbouring trees dispalaced onto my property by Project 2 - Summer 2023</p>
+    
+  </div>
+</div>
+
 
 <a id="new"></a>
 ### New Building Construction
@@ -163,17 +175,6 @@ Aerial View of the Property and surrounding area 2023
   </div>
 </div>
 
-<div class="row">
-  <div class="column">
-    <a href="../img/Runnoff_2023.jpg"><img src="../img/Runnoff_2023.jpg"></a>
-    <p>Runnoff Summer 2023</p>
-  </div>
-  <div class="column">
-    <a href="../img/2023_Runnoff_under_neighbouring_trees.jpg"><img src="../img/2023_Runnoff_under_neighbouring_trees.jpg"></a>
-    <p>Runnoff under neighbouring trees dispalaced onto my property by Project 2 - Summer 2023</p>
-    
-  </div>
-</div>
 
 
 <!--
